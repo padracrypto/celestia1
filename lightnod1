@@ -1,4 +1,4 @@
-gm...1515
+gm...1616
 sudo apt update && sudo apt upgrade -y 
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
